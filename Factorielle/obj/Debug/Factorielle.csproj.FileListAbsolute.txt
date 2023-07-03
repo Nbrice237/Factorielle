@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\CNED projects\Factorielle\Factorielle\bin\Debug\Factorielle.exe.config
+C:\Users\pc\source\repos\CNED projects\Factorielle\Factorielle\bin\Debug\Factorielle.exe
+C:\Users\pc\source\repos\CNED projects\Factorielle\Factorielle\bin\Debug\Factorielle.pdb
+C:\Users\pc\source\repos\CNED projects\Factorielle\Factorielle\obj\Debug\Factorielle.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CNED projects\Factorielle\Factorielle\obj\Debug\Factorielle.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CNED projects\Factorielle\Factorielle\obj\Debug\Factorielle.exe
+C:\Users\pc\source\repos\CNED projects\Factorielle\Factorielle\obj\Debug\Factorielle.pdb
